@@ -4,4 +4,4 @@ git add /var/wall/
 
 git commit -a --allow-empty-message -m ""
 
-git push https://github.com/judgeschnoopy/thewall
+git push --set-upstream https://github.com/judgeschnoopy/thewall master
