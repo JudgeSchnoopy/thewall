@@ -8,3 +8,5 @@ The game will be designed to play on a monitor, using a custom controller with b
 
 dogit = add, commit, push
 gitpull = pull git
+
+test from laptop!
